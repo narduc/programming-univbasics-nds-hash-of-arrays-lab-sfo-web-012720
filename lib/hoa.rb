@@ -8,6 +8,7 @@ def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
   BASE_HOA[:chipmunks] << "Dave"
+  BASE_HOA[:jetsons] << "Snarf"
 end
 
 # describe 'The HoA can be updated by' do
